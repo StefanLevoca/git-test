@@ -5,6 +5,9 @@ public class HelloWorld {
 		
 		System.out.println("Hello world");
 		
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Git je super");
+		}
 
 	}
 
