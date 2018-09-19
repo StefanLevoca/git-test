@@ -8,7 +8,7 @@ public class HelloWorld {
 		//toto je dolezity komentar a toto
 		for (int i = 0; i < 10; i++) {
 			System.out.println("Git je super");
-			
+			System.out.println();
 		}
 
 	}
