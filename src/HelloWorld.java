@@ -10,6 +10,9 @@ public class HelloWorld {
 			System.out.println("Git je super");
 			System.out.println();
 			//este komentar
+			
+			
+			System.out.println("Pridanie do projektu");
 		}
 
 	}
