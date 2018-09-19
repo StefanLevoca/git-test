@@ -13,7 +13,7 @@ public class HelloWorld {
 			
 			while (true) {
 				System.out.println("nekonecno");
-				
+				System.out.println("nekonecno");
 				
 			}
 			
