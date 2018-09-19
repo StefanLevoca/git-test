@@ -11,8 +11,12 @@ public class HelloWorld {
 			System.out.println();
 			//este komentar
 			
+			while (true) {
+				System.out.println("nekonecno");
+				
+			}
 			
-			System.out.println("Pridanie do projektu");
+					
 		}
 
 	}
