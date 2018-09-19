@@ -15,7 +15,10 @@ public class HelloWorld {
 				System.out.println("nekonecno");
 				System.out.println("nekonecno");
 				
-				
+				for (int j = 0; j < 10; j++) {
+					System.out.println("Konflikt");
+					System.out.println("Konflikt");
+				}
 				
 			}
 			
