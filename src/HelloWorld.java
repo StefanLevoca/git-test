@@ -14,6 +14,7 @@ public class HelloWorld {
 			while (true) {
 				System.out.println("nekonecno");
 				
+				
 			}
 			
 					
